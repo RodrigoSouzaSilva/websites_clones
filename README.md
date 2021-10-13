@@ -79,7 +79,7 @@
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/matheusz98/websites
+$ git clone https://github.com/RodrigoSouzaSilva/websites_clones
 
 # Ou
 # Ir no code (botãozinho verde) e fazer download do zip.
