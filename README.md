@@ -18,59 +18,8 @@
 <h2 align="center">:rocket: Projetos Desenvolvidos :rocket:</h2>
 
 <details>
-  <summary>Hello Spring</summary>
+  <summary>Em construção</summary>
   <p>Este é um website com uma temática sobre a primavera.</p>
-  <p align="center"><img src="imgs/spring/spring.jpg" width="800" alt="Hello Spring"></p>
-  <p align="center"><a href="">Link do projeto</a></p>
-</details>
-
-<details>
-  <summary>MyScreenshots</summary>
-  <p>Projeto de um website no qual eu disponibilizo uma pequena galeria dos meus screenshots capturadas em minhas jogatinas no Playstation 4.</p>
-  <p align="center"><img src="imgs/myscreenshots/myscreenshots.jpg" width="800" alt="MyScreenshots"></p>
-  <p align="center"><a href="">Link do projeto</a></p>
-</details>
-
-<details>
-  <summary>CreativeFolio</summary>
-  <p>Um pequeno portifólio para testar meus conhecimentos sobre HTML, CSS & JavaScript.</p>
-  <p align="center"><img src="imgs/creativefolio/creativefolio.jpg" width="800" alt="CreativeFolio"></p>
-  <p align="center"><a href="">Link do projeto</a></p>
-</details>
-
-<details>
-  <summary>Fast Shopping</summary>
-  <p>Um website e-commerce.</p>
-  <p align="center"><img src="imgs/fastshopping/fastshopping.jpg" width="800" alt="Fast Shopping"></p>
-  <p align="center"><a href="">Link do projeto</a></p>
-</details>
-
-<details>
-  <summary>Sunset Gallery</summary>
-  <p>Esta é uma atividade avaliativa do curso técnico na qual foi solicitado criar um website para colocar todo conhecimento em prática. Isso inclui galerias, vídeos, áudio, responsividade e etc.</p>
-  <p align="center"><img src="imgs/sunset/sunset.jpg" width="800" alt="Sunset Gallery"></p>
-  <p align="center"><a href=">Link do projeto</a></p>
-</details>
-
-<details>
-  <summary>Coloris</summary>
-  <p>Este é um website com o tema sobre paleta de cores.</p>
-  <p align="center"><img src="imgs/coloris/coloris.jpg" width="800" alt="Coloris"></p>
-  <p align="center"><a href="">Link do projeto</a></p>
-</details>
-
-<details>
-  <summary>Web Modeling</summary>
-  <p>Projeto de um website de agência de modelos, tentando criar uma boa variedade e cores e conteúdo.</p>
-  <p align="center"><img src="imgs/modeling/modeling.jpg" width="800" alt="Web Modeling"></p>
-  <p align="center"><a href="">Link do projeto</a></p>
-</details>
-
-<details>
-  <summary>Meu Portfólio</summary>
-  <p>Esta é a primeira versão do meu portfólio. Nele você irá encontrar meus projetos e um pouco sobre mim.</p>
-  <p align="center"><img src="imgs/portfolio/portfolio.jpg" width="800" alt="Meu Portfólio"></p>
-  <p align="center"><a href="">Link do projeto</a></p>
 </details>
 
 <h4 align="center"> :construction: Este repositório está em construção, com o tempo ele será atualizado com novos projetos. :construction:</h4>
@@ -79,7 +28,7 @@
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/matheusz98/websites
+$ git clone https://github.com/RodrigoSouzaSilva/websites_clones
 
 # Ou
 # Ir no code (botãozinho verde) e fazer download do zip.
